@@ -82,7 +82,7 @@
         "id": 7,
         "name": "Misch-Misch",
         "age": 9,
-        "picture": "https://res.cloudinary.com/drv4bvkmy/image/upload/v1715693413/mischMisch_vqgeqj.webpv",
+        "picture": "https://res.cloudinary.com/drv4bvkmy/image/upload/v1715693413/mischMisch_vqgeqj.webp",
         "favouriteSnack": "mice",
         "chonkLevel": "chonk",
         "catMood": "", 
@@ -159,13 +159,26 @@
       {
         "id": 13,
         "name": "Batman",
-        "age": "1",
+        "age": 1,
         "picture": "https://res.cloudinary.com/drv4bvkmy/image/upload/v1715694183/batman_uaphmo.webp",
         "favouriteSnack": "chicken",
         "chonkLevel": "chonk",
         "catMood": "",
         "bio": "I am Batman. Lookout.",
-        "livesLeft": 4,
+        "livesLeft": 6,
+        "tag": ""
+      },
+
+      {
+        "id": 14,
+        "name": "Floki",
+        "age": 9,
+        "picture": "https://res.cloudinary.com/drv4bvkmy/image/upload/v1715702205/floki.webp",
+        "favouriteSnack": "fish",
+        "chonkLevel": "big chonk",
+        "catMood": "",
+        "bio": "Big man is coming, let me through.",
+        "livesLeft": 5,
         "tag": ""
       }
 
