@@ -4,110 +4,143 @@
         "id": 1,
         "name": "Balu",
         "age": 8,
-        "picture": "",
+        "picture": "pictures/balu.png",
         "favouriteSnack": "oil",
         "chonkLevel": "chonk chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "MEOOOOOOOOW.",
+        "livesLeft": 4,
+        "tag": ""
       },
 
       {
         "id": 2,
         "name": "Benjamim",
         "age": 6,
-        "picture": "",
+        "picture": "pictures/benjamim.jpg",
         "favouriteSnack": "tuna",
         "chonkLevel": "chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "One eye wonder.",
+        "livesLeft": 6,
+        "tag": ""
       },
       
       {
         "id": 3,
         "name": "Bejinha",
         "age": 4,
-        "picture": "",
+        "picture": "pictures/bejinha.jpeg",
         "favouriteSnack": "chicken",
         "chonkLevel": "mini chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "It's me, I'm the problem, it's me.",
+        "livesLeft": "2",
+        "tag": ""
       },
 
       {
         "id": 4,
         "name": "Maui",
         "age": 5,
-        "picture": "",
+        "picture": "pictures/maui.png",
         "favouriteSnack": "fish",
         "chonkLevel": "big chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "",
+        "livesLeft": 7,
+        "tag": ""
       },
 
       {
         "id": 5,
         "name": "Paulchen",
         "age": 13,
-        "picture": "",
+        "picture": "pictures/paulchen.png",
         "favouriteSnack": "meat stick",
         "chonkLevel": "big chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "Sleep all day, be fed all day.",
+        "livesLeft": 5,
+        "tag": ""
       },
 
       {
-        "id": 5,
+        "id": 6,
         "name": "Lili",
         "age": 13,
-        "picture": "",
+        "picture": "pictures/lili.png",
         "favouriteSnack": "salmon",
         "chonkLevel": "chonk chonk",
-        "catMood": ""
+        "catMood": "", 
+        "bio": "Spoil me like a princes.",
+        "livesLeft": 7,
+        "tag": ""
       },
 
       {
         "id": 7,
         "name": "Misch-Misch",
         "age": 9,
-        "picture": "",
+        "picture": "pictures/mischMisch.png",
         "favouriteSnack": "mice",
         "chonkLevel": "chonk",
-        "catMood": ""
+        "catMood": "", 
+        "bio": "My love language is trying to feed you freslhy hunted mice.",
+        "livesLeft": "3",
+        "tag": ""
       },
 
       {
         "id": 8,
         "name": "Gaston",
         "age": 5,
-        "picture": "",
+        "picture": "pictures/gaston.png",
         "favouriteSnack": "tuna",
         "chonkLevel": "chonk chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "",
+        "livesLeft": 8,
+        "tag": ""
       },
 
       {
         "id": 9,
         "name": "Mochi",
         "age": 5,
-        "picture": "",
+        "picture": "pictures/mochi.png",
         "favouriteSnack": "cheese",
         "chonkLevel": "mini chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "Grump but a fluff.",
+        "livesLeft": 5,
+        "tag": ""
       },
 
       {
         "id": 10,
         "name": "Manju",
         "age": 6,
-        "picture": "",
+        "picture": "pictures/manju.png",
         "favouriteSnack": "cheese",
         "chonkLevel": "big chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "I'm misterious, just try and find me under a blanket.",
+        "livesLeft": 6,
+        "tag": ""
       },
 
       {
         "id": 11,
         "name": "Lina Maria",
         "age": 3,
-        "picture": "chicken",
-        "favouriteSnack": "",
+        "picture": "pictures/linaMaria.png",
+        "favouriteSnack": "chicken",
         "chonkLevel": "chonk",
-        "catMood": ""
+        "catMood": "I'm darker than your shadow.",
+        "bio": "",
+        "livesLeft": "5",
+        "tag": ""
       },
 
       {
@@ -117,37 +150,23 @@
         "picture": "",
         "favouriteSnack": "shrimp",
         "chonkLevel": "chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "Brush me and I'll let you be my queen.",
+        "livesLeft": 8,
+        "tag": ""
       },
 
       {
         "id": 13,
-        "name": "Pouf",
-        "age": "",
-        "picture": "",
-        "favouriteSnack": "",
-        "chonkLevel": "chonk",
-        "catMood": ""
-      },
-
-      {
-        "id": 16,
-        "name": "Floki",
-        "age": "",
-        "picture": "",
-        "favouriteSnack": "",
-        "chonkLevel": "big chonk",
-        "catMood": ""
-      },
-
-      {
-        "id": 17,
         "name": "Batman",
         "age": "",
         "picture": "",
         "favouriteSnack": "",
         "chonkLevel": "chonk",
-        "catMood": ""
+        "catMood": "",
+        "bio": "I am Batman. Lookout.",
+        "livesLeft": 4,
+        "tag": ""
       }
 
   ]
